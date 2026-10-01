@@ -1,0 +1,1 @@
+"""AquaIca Pydantic schemas package."""
